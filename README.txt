@@ -1,7 +1,5 @@
 Based on HTML5Up package by AJ aj@lkn.io | @ajlkn
 
-My name geoff
-
 
 Credits:
 
